@@ -1,0 +1,23 @@
+Python Quiz Application
+
+This is a simple quiz application created using Python. It asks multiple-choice questions and checks the user's answers. At the end, it displays the score.
+
+Features:
+
+* Multiple-choice questions
+* Score calculation
+* Simple GUI using Tkinter
+* Easy to use
+
+Technologies Used:
+
+* Python
+* Tkinter
+
+How to Run:
+
+1. Open the project folder.
+2. Run app.py using Python.
+3. Start answering the questions.
+
+Created as a mini project for learning Python.
