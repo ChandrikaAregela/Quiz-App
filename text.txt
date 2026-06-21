@@ -1,3 +1,5 @@
+
+
 Python Quiz Application
 
 This is a simple quiz application created using Python. It asks multiple-choice questions and checks the user's answers. At the end, it displays the score.
@@ -19,5 +21,12 @@ How to Run:
 1. Open the project folder.
 2. Run app.py using Python.
 3. Start answering the questions.
+
+Future Improvements:
+
+Add more questions
+Include a timer for each question
+Store high scores
+Add different difficulty levels
 
 Created as a mini project for learning Python.
